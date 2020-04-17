@@ -9,7 +9,7 @@ package chats;
  *
  * @author Abhinand
  */
-
+//this is a test to check commit
 import java.awt.Color;
 import java.awt.Component;
 import java.awt.Graphics;
